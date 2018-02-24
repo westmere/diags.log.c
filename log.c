@@ -13,8 +13,8 @@
 /*
  *  ======== Log.c ========
  */
-#include "diags.h"
-#include "log.h"
+#include "log/diags.h"
+#include "log/log.h"
 
 /*
  * Conditionally set the format string depending on the width of data
